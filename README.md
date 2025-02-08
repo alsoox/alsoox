@@ -1,5 +1,5 @@
 <!--타이틀-->
-<div align="center"> 강순종입니다<h3>
+<div align="center"> 안녕하세요 강순종입니다<h3>
 
 
 <!--
